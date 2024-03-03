@@ -1,0 +1,1 @@
+/usr/bin/c++  -g -O3 -DNDEBUG CMakeFiles/tpch14_omp.dir/tpch14_omp.cpp.o CMakeFiles/tpch14_omp.dir/__/__/src/shaftdb/comparator.cpp.o CMakeFiles/tpch14_omp.dir/__/__/src/shaftdb/predicates.cpp.o -o ../../bin/tpch14_omp  ../../thirdparty/SEAL/lib/libseal-4.1.a -pthread /usr/lib/gcc/x86_64-linux-gnu/9/libgomp.so /usr/lib/x86_64-linux-gnu/libpthread.so 

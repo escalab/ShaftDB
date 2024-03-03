@@ -1,0 +1,1 @@
+/usr/bin/c++  -g -O3 -DNDEBUG CMakeFiles/comparison.dir/comparison.cpp.o CMakeFiles/comparison.dir/__/__/src/shaftdb/comparator.cpp.o CMakeFiles/comparison.dir/__/__/src/shaftdb/predicates.cpp.o -o ../../bin/comparison  ../../thirdparty/SEAL/lib/libseal-4.1.a -pthread 
