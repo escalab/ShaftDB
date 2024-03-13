@@ -1,2 +1,0 @@
-/usr/bin/ar qc libshaftdb.a CMakeFiles/shaftdb.dir/src/shaftdb/comparator.cpp.o CMakeFiles/shaftdb.dir/src/shaftdb/predicates.cpp.o
-/usr/bin/ranlib libshaftdb.a

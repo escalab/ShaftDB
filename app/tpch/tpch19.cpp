@@ -1,7 +1,6 @@
 
 
 #include "shaftdb/shaftdb.h"
-#include "omp.h"
 using namespace seal;
 using namespace std;
 

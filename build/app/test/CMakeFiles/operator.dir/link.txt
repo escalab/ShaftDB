@@ -1,1 +1,0 @@
-/usr/bin/c++  -g -O3 -DNDEBUG CMakeFiles/operator.dir/operator.cpp.o CMakeFiles/operator.dir/__/__/src/shaftdb/comparator.cpp.o CMakeFiles/operator.dir/__/__/src/shaftdb/predicates.cpp.o -o ../../bin/operator  ../../thirdparty/SEAL/lib/libseal-4.1.a -pthread 

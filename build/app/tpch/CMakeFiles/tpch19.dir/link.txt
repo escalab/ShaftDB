@@ -1,1 +1,0 @@
-/usr/bin/c++  -g -O3 -DNDEBUG CMakeFiles/tpch19.dir/tpch19.cpp.o CMakeFiles/tpch19.dir/__/__/src/shaftdb/comparator.cpp.o CMakeFiles/tpch19.dir/__/__/src/shaftdb/predicates.cpp.o -o ../../bin/tpch19  ../../thirdparty/SEAL/lib/libseal-4.1.a -pthread 

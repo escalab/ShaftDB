@@ -76,8 +76,6 @@ int main(int argc, char *argv[])
     Evaluator evaluator(context);
     Comparator comparator(context);
 
-    std::cout << comparator.getK() << " " << comparator.getM() << std::endl;
-    return 0;
 
     BatchEncoder batch_encoder(context);
     Decryptor decryptor(context, secret_key);
