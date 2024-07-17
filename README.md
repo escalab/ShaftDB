@@ -1,5 +1,5 @@
 
-# ShaftDB
+# NSHEDB
 
 ## Environment Setup
 1. Ubuntu 20.04
@@ -8,6 +8,7 @@
 
 ## Installation
 ```
+git submodule update --init
 mkdir build
 cd build
 cmake ..; make

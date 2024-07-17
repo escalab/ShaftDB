@@ -1,7 +1,7 @@
 /*
  * Comparison tests
  */
-#include "shaftdb/shaftdb.h"
+#include "nshedb/nshedb.h"
 using namespace seal;
 
 template<typename T>

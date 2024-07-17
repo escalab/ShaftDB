@@ -2,7 +2,7 @@
  * Test for the case that BETWEEN is evaluated in the same way as IN
 */
 
-#include "shaftdb/shaftdb.h"
+#include "nshedb/nshedb.h"
 using namespace seal;
 using namespace std;
 
